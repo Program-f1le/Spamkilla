@@ -1,0 +1,13 @@
+# Telegram Bot Framework
+aiogram>=3.13.0
+
+# Переменные окружения
+python-dotenv>=1.0.1
+
+# База данных и ORM
+SQLAlchemy>=2.0.35
+asyncpg>=0.29.0
+
+# ML / Нейросети (Hugging Face)
+transformers>=4.44.0
+torch>=2.2.0
